@@ -1,0 +1,5 @@
+[
+  { "claim": "NO_MISSED_PAYMENTS", "code": 1 },
+  { "claim": "MISSED_PAYMENT_LAST_MONTH", "code": 2 },
+  { "claim": "ON_PARTIAL_PAYMENT_PLAN", "code": 3 }
+]
