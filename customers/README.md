@@ -73,3 +73,7 @@ The dashboard you would build would allow for the following:
 cd customers/data-gen && npm install
 node index.js #outputs customers_100.json
 ```
+
+## Submission
+
+To submit your work, please send an email to your recruiter with a link to a public GitHub repository  used to host your code.
