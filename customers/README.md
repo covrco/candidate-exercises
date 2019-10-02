@@ -69,9 +69,11 @@ The dashboard you would build would allow for the following:
 
 ### Generating Data
 
+Running the provided data generation script will produce 1,000 customer records by default.
+
 ```shell
 cd customers/data-gen && npm install
-node index.js #outputs customers_100.json
+node index.js #outputs customers.json
 ```
 
 ## Submission
