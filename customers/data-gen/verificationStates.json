@@ -1,0 +1,5 @@
+[
+  { "state": "FAILED", "code": 1 },
+  { "state": "WAITING_ON_RETRY", "code": 2 },
+  { "state": "SUCCEEDED", "code": 3 }
+]
