@@ -16,7 +16,7 @@ The dashboard you would build would allow for the following:
 2. The user entity is a link that directs one to a different details view per user. This view has following features:
 
   1. It allows one to modify managed claims.
-  2. It shows the verification flow history in a visually pleasing manner. For now, the random data has each record first having failed, followed by a success.
+  2. It shows the verification flow history in a visually pleasing manner. For now, the random data has each record first having failed, followed by a success. The implementation should be able to handle other cases as well
   3. It shows any linked institutions for the user, with an upcoming payment date.
   4. The custom claim for payment history is also displayed for all users.
 3. Back on the grid page, also implement filtering by following criteria. Note that criteria should allowed to be compounded using an AND operator.
