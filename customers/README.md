@@ -1,13 +1,12 @@
 # Internal Customer Records Portal
 
-Build a management dashboard app for our support staff to be able to visualize
-a user's lifecycle with our mobile fintech app. Without going into too many details,
-the app currently allows user to do the following:
+Build a management dashboard app to provide our support staff the capability to visualize
+a user's lifecycle within our fintech product. For this exercise we will focus on 2 aspects of the product:
 
-1. Verify their identity
-2. Optionally link a financial institution to take advantage of our services.
+1. A user can verify their identity
+2. A user can optionally link a financial institution to take advantage of our services.
 
-Internally, we use a series of claims to authorize access to a variety of features. Some are auto-generated claims, and others are managed, as you will see below in the JSON schema.
+We use a series of claims to authorize access to a variety of features. Some are auto-generated claims, and others are managed, as you will see below in the JSON schema.
 
 ## Requirements
 
@@ -22,10 +21,10 @@ The dashboard you would build would allow for the following:
 
 2. Each user entity should be clickable to navigate to a details view. This view should have the following features:
 
-  - We should be able to edit a user's claims.
-  - We should be able to review a user's verification flow history in a visually pleasing manner. For now, the random data has each record first having failed, followed by a success. The implementation should be able to handle other cases as well
-  - We should be able to review any linked institutions for the user along with info about upcoming payments.
-  - The custom claim for payment history is also displayed for all users.
+   - We should be able to edit a user's claims.
+   - We should be able to review a user's verification flow history in a visually pleasing manner. For now, the random data has each record first having failed, followed by a success. The implementation should be able to handle other cases as well
+   - We should be able to review any linked institutions for the user along with info about upcoming payments.
+   - The custom claim for payment history is also displayed for all users.
 
 ## Sample Data
 
