@@ -21,9 +21,9 @@ verificationState.set(3, 'SUCCEEDED')
 
 const paymentHistoryCodesWithLinkedAccount = [2, 3]
 const paymentHistoryMap = new Map()
-paymentHistoryMap.set(1, "NO_MISSED_PAYMENTS")
-paymentHistoryMap.set(2, "MISSED_PAYMENT_LAST_MONTH")
-paymentHistoryMap.set(3, "ON_PARTIAL_PAYMENT_PLAN")
+paymentHistoryMap.set(1, 'NO_MISSED_PAYMENTS')
+paymentHistoryMap.set(2, 'MISSED_PAYMENT_LAST_MONTH')
+paymentHistoryMap.set(3, 'ON_PARTIAL_PAYMENT_PLAN')
 
 const random = faker.random
 
@@ -90,4 +90,4 @@ function randomCustomer () {
 }
 
 const customers = _.times(100, randomCustomer)
-fs.writeFileSync("./customers_100.json", JSON.stringify(customers, null, 2))
+fs.writeFileSync('./customers_100.json', JSON.stringify(customers, null, 2))
