@@ -1,0 +1,2620 @@
+[
+  {
+    "name": {
+      "first": "Emerald",
+      "last": "Moore"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-05-16T17:48:24.627Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-31T03:31:00.750Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Home Loan Account",
+        "accountNumber": "78796514",
+        "linkedDate": "2019-10-01T14:43:41.780Z"
+      }
+    ],
+    "nextPaymentDate": "2020-01-07T17:48:07.013Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Griffin",
+      "last": "Conn"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-03-21T18:41:02.154Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-28T12:10:16.838Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Savings Account",
+        "accountNumber": "03157507",
+        "linkedDate": "2019-10-01T20:53:04.898Z"
+      }
+    ],
+    "nextPaymentDate": "2019-11-23T17:31:23.748Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Gracie",
+      "last": "Schowalter"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-11-10T04:12:57.914Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-09-19T20:18:48.467Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Auto Loan Account",
+        "accountNumber": "92220602",
+        "linkedDate": "2019-10-02T06:11:09.664Z"
+      }
+    ],
+    "nextPaymentDate": "2020-02-13T00:44:47.004Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Devin",
+      "last": "Dicki"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-01-12T22:28:49.946Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-15T23:06:55.409Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Lue",
+      "last": "Swift"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-12-21T00:45:57.478Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-04-22T21:38:42.321Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Tobin",
+      "last": "Terry"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-12-30T13:05:12.530Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-01-26T01:00:05.571Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Adolf",
+      "last": "Purdy"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-01-09T22:46:23.596Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-06-14T11:55:21.529Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "City Bank",
+        "account": "Home Loan Account",
+        "accountNumber": "61362875",
+        "linkedDate": "2019-10-02T10:02:20.317Z"
+      }
+    ],
+    "nextPaymentDate": "2019-10-25T06:45:21.949Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Abagail",
+      "last": "Fritsch"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-10-14T14:10:27.082Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-04-01T12:26:58.112Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Home Loan Account",
+        "accountNumber": "84941058",
+        "linkedDate": "2019-10-01T23:07:22.287Z"
+      }
+    ],
+    "nextPaymentDate": "2020-10-01T09:15:27.064Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "May",
+      "last": "Rohan"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-11-03T09:51:58.601Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-06-10T01:13:00.605Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Baylee",
+      "last": "O'Keefe"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-11-18T04:41:41.214Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-29T12:20:10.798Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Audrey",
+      "last": "Krajcik"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-02-24T00:13:42.740Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-10-01T09:13:48.812Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Credit Card Account",
+        "accountNumber": "29999491",
+        "linkedDate": "2019-10-01T21:32:25.571Z"
+      }
+    ],
+    "nextPaymentDate": "2020-03-19T15:38:11.877Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Neha",
+      "last": "Schuppe"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-10-28T19:01:32.711Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-10T17:50:24.493Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Mac",
+      "last": "Gerlach"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-11-26T00:07:06.414Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-03-03T06:11:23.650Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Checking Account",
+        "accountNumber": "53113830",
+        "linkedDate": "2019-10-02T06:04:01.441Z"
+      }
+    ],
+    "nextPaymentDate": "2020-03-05T13:32:40.970Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Eleonore",
+      "last": "Mante"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-01-10T16:31:31.979Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-05-19T13:13:39.405Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Monique",
+      "last": "Turner"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-11-14T04:37:03.329Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-02-21T22:09:05.421Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Checking Account",
+        "accountNumber": "10007038",
+        "linkedDate": "2019-10-01T21:15:16.316Z"
+      }
+    ],
+    "nextPaymentDate": "2020-04-01T10:02:52.925Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Euna",
+      "last": "Connelly"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-02-12T16:10:33.275Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-05-19T10:21:12.721Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Personal Loan Account",
+        "accountNumber": "43780079",
+        "linkedDate": "2019-10-02T09:45:26.040Z"
+      }
+    ],
+    "nextPaymentDate": "2020-05-13T04:42:06.307Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Wendell",
+      "last": "Paucek"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-12-07T16:50:30.940Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-05-27T22:25:33.150Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Sibyl",
+      "last": "Brakus"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-10-20T04:20:04.474Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2018-12-20T07:52:34.442Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Bank of America",
+        "account": "Personal Loan Account",
+        "accountNumber": "35836139",
+        "linkedDate": "2019-10-02T01:14:06.185Z"
+      }
+    ],
+    "nextPaymentDate": "2020-02-08T12:27:04.040Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Joanny",
+      "last": "Kerluke"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-06-28T18:47:41.912Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-09-15T09:01:36.760Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Credit Card Account",
+        "accountNumber": "86912703",
+        "linkedDate": "2019-10-02T09:31:16.438Z"
+      }
+    ],
+    "nextPaymentDate": "2020-06-29T00:22:29.366Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Harmon",
+      "last": "Medhurst"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-03-10T17:27:27.269Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-19T20:10:49.673Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Alexa",
+      "last": "Hintz"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-02-01T00:15:04.546Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-09T22:04:14.654Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Yasmine",
+      "last": "Rice"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-07-04T04:29:45.119Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-06T08:54:28.325Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Bank of America",
+        "account": "Investment Account",
+        "accountNumber": "34673116",
+        "linkedDate": "2019-10-02T06:23:08.547Z"
+      }
+    ],
+    "nextPaymentDate": "2020-06-26T13:03:03.591Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Laila",
+      "last": "Flatley"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-12-21T05:50:47.264Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-04-14T12:37:28.127Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Chet",
+      "last": "Abernathy"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-03-25T04:43:31.868Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-04-17T22:45:38.462Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Money Market Account",
+        "accountNumber": "21516144",
+        "linkedDate": "2019-10-02T10:42:11.426Z"
+      }
+    ],
+    "nextPaymentDate": "2019-11-10T09:50:40.393Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Dejah",
+      "last": "Gusikowski"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-02-14T13:49:06.773Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-16T11:53:28.000Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Home Loan Account",
+        "accountNumber": "83041900",
+        "linkedDate": "2019-10-01T20:14:24.415Z"
+      }
+    ],
+    "nextPaymentDate": "2019-11-16T09:17:22.616Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Mireya",
+      "last": "Bergstrom"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-06-11T13:11:21.274Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-26T15:35:44.593Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Bank of America",
+        "account": "Checking Account",
+        "accountNumber": "96796548",
+        "linkedDate": "2019-10-01T17:24:46.372Z"
+      }
+    ],
+    "nextPaymentDate": "2019-12-28T11:46:32.846Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Lourdes",
+      "last": "Jast"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-11-30T21:19:52.602Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-09-06T05:48:25.584Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Home Loan Account",
+        "accountNumber": "50292713",
+        "linkedDate": "2019-10-02T08:50:31.590Z"
+      }
+    ],
+    "nextPaymentDate": "2020-04-24T22:06:37.002Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Felipe",
+      "last": "Cummerata"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-01-24T05:37:59.571Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-01-29T09:45:57.228Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Flavie",
+      "last": "Lueilwitz"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-08-16T18:30:18.595Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-30T17:49:51.429Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Laurine",
+      "last": "Lubowitz"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-07-09T10:41:27.479Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-17T14:22:15.016Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Savings Account",
+        "accountNumber": "79839613",
+        "linkedDate": "2019-10-01T19:40:48.687Z"
+      }
+    ],
+    "nextPaymentDate": "2020-02-04T12:24:09.759Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Allen",
+      "last": "Smith"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-11-03T18:51:36.340Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-29T18:26:55.120Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Credit Card Account",
+        "accountNumber": "02610240",
+        "linkedDate": "2019-10-02T04:51:43.450Z"
+      }
+    ],
+    "nextPaymentDate": "2020-04-26T06:39:23.426Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Javonte",
+      "last": "Hane"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-10-06T22:11:46.747Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-09-03T01:44:15.545Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Gavin",
+      "last": "Schuppe"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-02-20T13:23:40.351Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-06-01T23:21:44.970Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Credit Card Account",
+        "accountNumber": "80864429",
+        "linkedDate": "2019-10-01T19:56:51.895Z"
+      }
+    ],
+    "nextPaymentDate": "2020-07-28T21:09:09.524Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Neal",
+      "last": "Huel"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-11-22T09:30:10.150Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-02-13T01:44:47.472Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Eve",
+      "last": "Purdy"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-11-24T02:23:17.400Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-02-17T18:17:25.541Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Sigmund",
+      "last": "Wehner"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-12-03T14:31:26.916Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-04-20T02:13:46.239Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Savings Account",
+        "accountNumber": "04176841",
+        "linkedDate": "2019-10-02T00:58:11.661Z"
+      }
+    ],
+    "nextPaymentDate": "2020-04-27T06:31:57.682Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Allan",
+      "last": "Jones"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-01-09T22:06:48.781Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-02-03T05:12:52.516Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Home Loan Account",
+        "accountNumber": "49486596",
+        "linkedDate": "2019-10-01T16:06:20.980Z"
+      }
+    ],
+    "nextPaymentDate": "2020-05-15T16:37:01.494Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Eduardo",
+      "last": "Sporer"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-10-31T17:38:21.907Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-02-10T01:11:44.332Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Haylee",
+      "last": "Stokes"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-03-25T21:42:00.597Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-13T20:20:13.312Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Lea",
+      "last": "Lang"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-11-25T11:59:30.523Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-03-29T01:25:48.616Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Bank of America",
+        "account": "Savings Account",
+        "accountNumber": "76303944",
+        "linkedDate": "2019-10-02T11:38:11.322Z"
+      }
+    ],
+    "nextPaymentDate": "2020-01-11T11:29:01.373Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Isom",
+      "last": "Rogahn"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-11-30T23:47:03.879Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-06-04T01:00:36.888Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Easter",
+      "last": "Volkman"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-10-31T08:54:58.429Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2018-11-14T18:11:14.307Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Savings Account",
+        "accountNumber": "62842884",
+        "linkedDate": "2019-10-01T17:44:24.701Z"
+      }
+    ],
+    "nextPaymentDate": "2020-07-03T23:59:55.362Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Fredy",
+      "last": "Hermann"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-12-29T06:46:39.377Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-27T12:20:16.353Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Demarcus",
+      "last": "Pfeffer"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-05-19T10:32:25.594Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-06-05T00:37:00.314Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Brendon",
+      "last": "Wiegand"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-10-17T22:32:43.348Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-03-27T21:26:14.144Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Investment Account",
+        "accountNumber": "26648741",
+        "linkedDate": "2019-10-01T14:38:55.237Z"
+      }
+    ],
+    "nextPaymentDate": "2020-05-28T02:02:55.756Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Vidal",
+      "last": "Fay"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-01-27T18:50:15.227Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-06-27T18:29:15.921Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Neoma",
+      "last": "Green"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-11-16T08:05:43.930Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-03-15T15:00:12.841Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Chyna",
+      "last": "Crist"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-10-18T08:28:11.344Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2018-11-15T03:03:18.448Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Checking Account",
+        "accountNumber": "75445896",
+        "linkedDate": "2019-10-01T13:39:30.758Z"
+      }
+    ],
+    "nextPaymentDate": "2020-08-31T01:15:47.012Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Jewel",
+      "last": "Mitchell"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-01-22T15:47:36.354Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-11T17:17:22.932Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Cloyd",
+      "last": "Bartoletti"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-04-21T19:01:29.317Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-05-04T21:03:21.908Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Personal Loan Account",
+        "accountNumber": "90595293",
+        "linkedDate": "2019-10-02T00:42:30.134Z"
+      }
+    ],
+    "nextPaymentDate": "2020-06-17T23:50:07.446Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Jaida",
+      "last": "Hansen"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-01-10T19:21:59.679Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-09-26T22:39:39.290Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Credit Card Account",
+        "accountNumber": "30674883",
+        "linkedDate": "2019-10-02T11:17:44.507Z"
+      }
+    ],
+    "nextPaymentDate": "2020-03-12T10:28:01.470Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Ronaldo",
+      "last": "Senger"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-11-28T22:27:45.155Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-23T11:19:29.244Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Personal Loan Account",
+        "accountNumber": "79640453",
+        "linkedDate": "2019-10-02T06:14:06.376Z"
+      }
+    ],
+    "nextPaymentDate": "2019-12-19T16:17:45.162Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Augustus",
+      "last": "Rowe"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-02-26T18:05:35.162Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-04-13T11:12:39.928Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "City Bank",
+        "account": "Money Market Account",
+        "accountNumber": "13462345",
+        "linkedDate": "2019-10-02T08:43:27.386Z"
+      }
+    ],
+    "nextPaymentDate": "2020-02-07T20:54:23.269Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Ari",
+      "last": "Purdy"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-10-20T06:43:55.566Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-01-08T14:03:30.349Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Money Market Account",
+        "accountNumber": "18650633",
+        "linkedDate": "2019-10-02T01:22:49.255Z"
+      }
+    ],
+    "nextPaymentDate": "2020-09-14T01:42:23.797Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Gisselle",
+      "last": "Boyle"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-02-11T22:08:36.329Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-28T06:29:19.080Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Wilfrid",
+      "last": "Hermiston"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-10-08T22:08:07.250Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-01-07T15:45:03.158Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Home Loan Account",
+        "accountNumber": "90799226",
+        "linkedDate": "2019-10-01T18:41:45.947Z"
+      }
+    ],
+    "nextPaymentDate": "2020-01-13T05:25:01.298Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Cara",
+      "last": "Kirlin"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-01-30T13:25:22.453Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-01T16:34:38.729Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Brenna",
+      "last": "Bauch"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-12-28T17:53:13.849Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-09-19T02:14:06.593Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "City Bank",
+        "account": "Checking Account",
+        "accountNumber": "74448061",
+        "linkedDate": "2019-10-02T11:13:30.354Z"
+      }
+    ],
+    "nextPaymentDate": "2019-12-11T22:57:06.679Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Ibrahim",
+      "last": "Rosenbaum"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-12-07T11:54:27.258Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-10-01T07:11:49.183Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Personal Loan Account",
+        "accountNumber": "97642210",
+        "linkedDate": "2019-10-02T02:54:10.231Z"
+      }
+    ],
+    "nextPaymentDate": "2020-04-27T15:58:20.525Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Cierra",
+      "last": "Breitenberg"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-10-18T13:06:57.725Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-01-27T05:31:48.971Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Paul",
+      "last": "Gerlach"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-02-19T05:08:32.606Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-15T06:40:39.380Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Justyn",
+      "last": "Williamson"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-10-20T22:50:54.155Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-12T12:35:30.638Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Investment Account",
+        "accountNumber": "26995838",
+        "linkedDate": "2019-10-01T20:55:40.639Z"
+      }
+    ],
+    "nextPaymentDate": "2019-12-19T21:53:06.517Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Sid",
+      "last": "Kreiger"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-08-24T17:14:49.754Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-09-09T15:30:16.958Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Investment Account",
+        "accountNumber": "44348479",
+        "linkedDate": "2019-10-02T07:36:53.430Z"
+      }
+    ],
+    "nextPaymentDate": "2020-09-05T22:02:59.583Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Cassie",
+      "last": "Fahey"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-04-27T06:36:47.126Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-05-13T04:17:15.110Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Money Market Account",
+        "accountNumber": "37901336",
+        "linkedDate": "2019-10-02T05:34:09.054Z"
+      }
+    ],
+    "nextPaymentDate": "2020-01-15T01:48:15.003Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Fritz",
+      "last": "Kuhlman"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-05-18T08:27:26.328Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-05T07:00:37.680Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Jennyfer",
+      "last": "Spencer"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-04-14T08:37:32.390Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-09-10T04:56:21.771Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Una",
+      "last": "Frami"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-10-18T00:53:58.211Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-04-16T21:19:56.052Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Home Loan Account",
+        "accountNumber": "92259543",
+        "linkedDate": "2019-10-02T09:01:43.763Z"
+      }
+    ],
+    "nextPaymentDate": "2020-06-29T21:46:36.233Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Norval",
+      "last": "Padberg"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-02-17T12:58:01.532Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-03-20T08:08:24.750Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Edgardo",
+      "last": "Quigley"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-10-19T14:31:53.327Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-04-12T02:11:01.103Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Home Loan Account",
+        "accountNumber": "90822713",
+        "linkedDate": "2019-10-02T11:45:50.767Z"
+      }
+    ],
+    "nextPaymentDate": "2020-07-03T02:57:54.959Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Dejuan",
+      "last": "Bogan"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-05-21T14:44:04.719Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-11T18:22:29.769Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Home Loan Account",
+        "accountNumber": "40738070",
+        "linkedDate": "2019-10-01T17:17:33.505Z"
+      }
+    ],
+    "nextPaymentDate": "2020-05-19T23:59:51.639Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Sonia",
+      "last": "Marquardt"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-02-28T01:34:39.791Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-04-15T22:28:22.284Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "City Bank",
+        "account": "Personal Loan Account",
+        "accountNumber": "95402386",
+        "linkedDate": "2019-10-01T22:14:42.483Z"
+      }
+    ],
+    "nextPaymentDate": "2020-03-28T19:32:30.906Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Ephraim",
+      "last": "Cassin"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-06-17T21:33:07.809Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-07T00:51:26.274Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Christelle",
+      "last": "Walker"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-10-10T08:32:54.784Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-01-01T21:27:18.209Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Checking Account",
+        "accountNumber": "03903479",
+        "linkedDate": "2019-10-02T02:50:33.509Z"
+      }
+    ],
+    "nextPaymentDate": "2020-07-11T10:49:24.240Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Glenna",
+      "last": "Gutmann"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-01-17T20:32:55.328Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-04-09T09:35:57.570Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "City Bank",
+        "account": "Money Market Account",
+        "accountNumber": "87051746",
+        "linkedDate": "2019-10-02T01:36:43.844Z"
+      }
+    ],
+    "nextPaymentDate": "2020-03-09T09:25:51.083Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Richard",
+      "last": "Stiedemann"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-12-21T02:59:18.911Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-02-27T10:07:47.663Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Adolf",
+      "last": "Rempel"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-10-27T04:34:54.353Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-09-28T14:27:47.133Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Investment Account",
+        "accountNumber": "70019099",
+        "linkedDate": "2019-10-02T05:46:27.153Z"
+      }
+    ],
+    "nextPaymentDate": "2020-03-26T20:19:15.430Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Eli",
+      "last": "Kshlerin"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-03-21T18:19:43.202Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-09-03T03:48:23.004Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Money Market Account",
+        "accountNumber": "63223805",
+        "linkedDate": "2019-10-01T21:23:48.085Z"
+      }
+    ],
+    "nextPaymentDate": "2020-08-09T02:42:22.909Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Cathrine",
+      "last": "Spinka"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-03-26T18:09:06.880Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-24T16:18:07.394Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Margarett",
+      "last": "Von"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-10-12T12:53:26.486Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2018-10-29T08:11:20.696Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Karson",
+      "last": "Simonis"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-02-11T22:49:23.732Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-02-24T06:12:21.515Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Cara",
+      "last": "Schmeler"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-11-22T16:39:04.472Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-05-06T12:42:21.263Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Wellington",
+      "last": "Bogan"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-10-19T21:44:31.976Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-02-13T11:13:30.896Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Checking Account",
+        "accountNumber": "08584440",
+        "linkedDate": "2019-10-01T12:53:47.365Z"
+      }
+    ],
+    "nextPaymentDate": "2020-01-06T21:14:01.615Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Jermaine",
+      "last": "Kozey"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-02-14T20:49:01.499Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-06-16T01:54:02.854Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "US Bank",
+        "account": "Home Loan Account",
+        "accountNumber": "73622537",
+        "linkedDate": "2019-10-02T10:16:55.027Z"
+      }
+    ],
+    "nextPaymentDate": "2020-03-14T15:57:44.243Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Rolando",
+      "last": "Cartwright"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-08-15T05:50:21.572Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-16T16:07:06.583Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Raquel",
+      "last": "Sauer"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-03-21T19:48:27.216Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-03-26T01:42:00.134Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Allen",
+      "last": "Blanda"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-05-09T17:25:37.943Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-10-01T14:36:02.159Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "City Bank",
+        "account": "Checking Account",
+        "accountNumber": "28699267",
+        "linkedDate": "2019-10-02T10:57:36.016Z"
+      }
+    ],
+    "nextPaymentDate": "2019-12-20T12:55:59.461Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Delpha",
+      "last": "Kautzer"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-05-18T23:45:00.268Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-06-28T05:53:57.023Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Creola",
+      "last": "Bosco"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-03-05T22:50:11.383Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-11T23:02:52.014Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Personal Loan Account",
+        "accountNumber": "20609201",
+        "linkedDate": "2019-10-02T00:08:12.618Z"
+      }
+    ],
+    "nextPaymentDate": "2020-05-20T19:12:30.141Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Pearline",
+      "last": "Fadel"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-11-29T18:03:59.910Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-03-27T15:34:29.197Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Helen",
+      "last": "Rempel"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-10-18T15:26:35.945Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-03-07T05:10:47.269Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Dallas",
+      "last": "Hackett"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-12-31T02:43:48.716Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-19T08:37:38.456Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Home Loan Account",
+        "accountNumber": "66011317",
+        "linkedDate": "2019-10-02T00:48:08.898Z"
+      }
+    ],
+    "nextPaymentDate": "2020-04-02T03:47:03.121Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Javon",
+      "last": "Goldner"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-12-27T01:48:05.472Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-01-16T01:45:37.519Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "City Bank",
+        "account": "Personal Loan Account",
+        "accountNumber": "88849454",
+        "linkedDate": "2019-10-02T08:17:50.692Z"
+      }
+    ],
+    "nextPaymentDate": "2019-11-20T10:21:42.189Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Darby",
+      "last": "Rogahn"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-05-09T08:23:40.960Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-21T05:07:06.581Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Bank of America",
+        "account": "Investment Account",
+        "accountNumber": "69683241",
+        "linkedDate": "2019-10-02T02:34:30.674Z"
+      }
+    ],
+    "nextPaymentDate": "2019-11-29T00:10:03.768Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Shane",
+      "last": "Ritchie"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-11-01T07:33:37.935Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-03-19T07:05:01.450Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Virginia",
+      "last": "Robel"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2019-02-17T14:06:54.770Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-25T01:32:32.890Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Investment Account",
+        "accountNumber": "22621690",
+        "linkedDate": "2019-10-02T05:59:23.941Z"
+      }
+    ],
+    "nextPaymentDate": "2020-09-26T22:00:11.092Z",
+    "customClaims": {
+      "paymentHistory": "MISSED_PAYMENT_LAST_MONTH"
+    }
+  },
+  {
+    "name": {
+      "first": "Emmalee",
+      "last": "Schiller"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-11-27T19:49:59.732Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-08-17T13:54:34.906Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Wells Fargo",
+        "account": "Investment Account",
+        "accountNumber": "58156349",
+        "linkedDate": "2019-10-01T16:03:04.888Z"
+      }
+    ],
+    "nextPaymentDate": "2020-03-04T20:25:47.407Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Ashleigh",
+      "last": "Fisher"
+    },
+    "managedClaims": {
+      "vip": true
+    },
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-04-11T18:50:04.908Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-06-03T19:28:11.192Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Dustin",
+      "last": "Roob"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2019-06-01T09:39:53.543Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-07-27T02:26:48.920Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  },
+  {
+    "name": {
+      "first": "Marquis",
+      "last": "Yundt"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "WAITING_ON_RETRY",
+        "date": "2018-12-29T10:46:29.205Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-01-16T06:46:29.647Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [
+      {
+        "name": "Peoples Bank",
+        "account": "Personal Loan Account",
+        "accountNumber": "35553376",
+        "linkedDate": "2019-10-02T11:42:48.433Z"
+      }
+    ],
+    "nextPaymentDate": "2020-03-28T20:59:28.132Z",
+    "customClaims": {
+      "paymentHistory": "ON_PARTIAL_PAYMENT_PLAN"
+    }
+  },
+  {
+    "name": {
+      "first": "Jermaine",
+      "last": "Raynor"
+    },
+    "managedClaims": {},
+    "verficationFlowHistory": [
+      {
+        "state": "FAILED",
+        "date": "2018-12-14T22:20:28.312Z"
+      },
+      {
+        "state": "SUCCEEDED",
+        "date": "2019-10-01T21:33:55.159Z"
+      }
+    ],
+    "linkedFinancialInstitutions": [],
+    "customClaims": {
+      "paymentHistory": "NO_MISSED_PAYMENTS"
+    }
+  }
+]
