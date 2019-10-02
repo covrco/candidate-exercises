@@ -10,10 +10,15 @@ The top level tier are the *Mobile Clients*. It is allowed to talk only to the *
 * Communication between the *API* and the *Workers* must be done through some sort of asynchronous messaging service.
 * The *Workers* are expected to reply to the *API* with an asynchronous message.
 * The *API* should wait for the asynchronous reply from the *Workers* before replying to the *Clients*.
+* The *Workers* and the *API* are packaged and deployed as separate containers within the same kubernetes cluster.
 
 ## Exercise
 
-Our chosen cloud computing platform is AWS.  Given these constraints, what services, platforms, or patterns would you use to facilitate the asynchronous messaging between the *API* and the *Workers*? What are some advantages and drawbacks of your choices?
+Our chosen cloud computing platform is AWS.
+
+1. Describe the services, platforms, or patterns would you use to facilitate the asynchronous messaging between the *API* and the *Workers*.
+2. Describe some advantages and drawbacks of your choices.
+3. Provide a diagram of the proposed solution.
 
 ### Extra Credit
 
