@@ -81,13 +81,14 @@ function randomCustomer () {
       paymentHistory: paymentHistoryMap.get(random.arrayElement(paymentHistoryCodesWithLinkedAccount))
     }
   }
-
-  customer.customClaims = {
-    paymentHistory: paymentHistoryMap.get(1)
+  else{
+    customer.customClaims = {
+      paymentHistory: paymentHistoryMap.get(1)
+    }
   }
 
   return customer
 }
 
-const customers = _.times(100, randomCustomer)
-fs.writeFileSync('./customers_100.json', JSON.stringify(customers, null, 2))
+const customers = _.times(1000, randomCustomer)
+fs.writeFileSync('./customers.json', JSON.stringify(customers, null, 2))
