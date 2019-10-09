@@ -13,7 +13,7 @@ Perform the following and document your thought-process as you make choices to u
 4. Ensure the service is highly available.
 
 All configuration and scripts, along with documentation of the approach and a step by step deployment guide, should be
-published in a public git repository for us to review. We should be able to use your solution to recreate the infrastructure required to host the service.
+published in a public git repository for us to review. We should be able to use your solution to recreate the infrastructure required to host the service.  Also, providing evidence of a working solution with screenshots or gifs would be helpful.
 
 ## Additional Information
 
