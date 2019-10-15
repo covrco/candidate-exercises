@@ -50,7 +50,7 @@ definitions to create a client implementation from the spec. When running from t
 command to connect to the server would be:
 
 ```shell script
-grpcc -i --proto cmd/protocol/sentence.proto --address <ADDRESS_GOES_HERE>:9001
+grpcc -i --proto protocol/sentence.proto --address <ADDRESS_GOES_HERE>:9001
 ```
 
 Once connected, the following command can be used to test the unary endpoint.
