@@ -6,8 +6,6 @@ Using the provided service based around gRPC, build out a mobile application tha
 2. Given the provided protoc file, generate and integrate the gRPC client.
 3. Build a mobile application based on the below requirements.
 
-Dashboard with card information, aggregate transaction to create the balance, can then select an account and show the transactions.
-
 ## Requirements
 
 The mobile application you would build should allow for the following:
