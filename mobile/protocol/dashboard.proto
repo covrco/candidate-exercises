@@ -15,7 +15,7 @@ message Card {
 }
 
 message DashboardResponse {
-    repeated Card = 2;
+    repeated Card card = 2;
 }
 
 enum CardIssuer {
@@ -50,7 +50,7 @@ message TransactionsResponse {
         google.protobuf.Timestamp date = 4;
     }
 
-    repeated TransactionInformation = 1;
+    repeated TransactionInformation transactions = 1;
 
 }
 
