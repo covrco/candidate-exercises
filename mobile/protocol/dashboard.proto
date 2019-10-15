@@ -55,8 +55,8 @@ message TransactionsResponse {
 }
 
 service BankInformation {
-// Gets the dashboard data
-rpc Dashboard(google.protobuf.Empty) returns (DashboardResponse) {}
-// Gets transaction data based on request
-rpc Transaction(TransactionsRequest) returns (TransactionsResponse) {}
+    // Gets the dashboard data
+    rpc Dashboard(google.protobuf.Empty) returns (DashboardResponse) {}
+    // Gets transaction data based on request
+    rpc Transaction(TransactionsRequest) returns (TransactionsResponse) {}
 }
