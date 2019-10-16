@@ -13,7 +13,7 @@ message Card {
     string account_holder = 2;
     CardIssuer issuer = 3;
     CardType type = 4;
-    int32 balance = 5;
+    double balance = 5;
     int32 card_mask = 6;
 }
 
@@ -47,7 +47,7 @@ message GetTransactionsRequest {
 message GetTransactionsResponse {
     message TransactionInformation {
         string vendor = 1;
-        int32 amount = 2;
+        double amount = 2;
         TransactionType type = 3;
         google.protobuf.Timestamp date = 4;
     }
