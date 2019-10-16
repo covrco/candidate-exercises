@@ -11,5 +11,5 @@ docker run --rm -d mobile-mock-server
 
 ```shell
 # Now you can interactively develop mocks, and stop and re-run for instant changes
-docker run --rm -it -v $PWD:/src -p 4770:4770 -p 4771:4771 -e PROTO_NAME=identity --entrypoint sh mobile-mock-server
+docker run --rm -it -v $PWD:/src -p 4770:4770 -p 4771:4771 --entrypoint sh mobile-mock-server
 ```
