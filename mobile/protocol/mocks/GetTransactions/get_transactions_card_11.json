@@ -13,11 +13,59 @@
     "data": {
       "transactions": [
         {
-          "vendor": "Xcel energy",
-          "amount": 20,
+          "vendor": "Ralph's",
+          "amount": 12.99,
           "type": 1,
           "date": {
             "seconds": 1571188104
+          }
+        },
+        {
+          "vendor": "Ikea Burbank",
+          "amount": 89.26,
+          "type": 1,
+          "date": {
+            "seconds": 1571188104
+          }
+        },
+        {
+          "vendor": "Burger King",
+          "amount": 9.26,
+          "type": 1,
+          "date": {
+            "seconds": 1571188104
+          }
+        },
+        {
+          "vendor": "Starbucks Beverly",
+          "amount": 7.56,
+          "type": 1,
+          "date": {
+            "seconds": 1570924800
+          }
+        },
+        {
+          "vendor": "Chevron Hollywood",
+          "amount": 47.87,
+          "type": 1,
+          "date": {
+            "seconds": 1570924800
+          }
+        },
+        {
+          "vendor": "Payment - Thank You",
+          "amount": 139.99,
+          "type": 2,
+          "date": {
+            "seconds": 1570838400
+          }
+        },
+        {
+          "vendor": "Electicity",
+          "amount": 139.99,
+          "type": 1,
+          "date": {
+            "seconds": 1570838400
           }
         }
       ]

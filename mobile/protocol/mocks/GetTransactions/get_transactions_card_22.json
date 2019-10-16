@@ -19,6 +19,38 @@
           "date": {
             "seconds": 1571178104
           }
+        },
+        {
+          "vendor": "SoCal Gas",
+          "amount": 78.99,
+          "type": 1,
+          "date": {
+            "seconds": 1571178104
+          }
+        },
+        {
+          "vendor": "LADWP",
+          "amount": 823.99,
+          "type": 1,
+          "date": {
+            "seconds": 1571178104
+          }
+        },
+        {
+          "vendor": "TMobile",
+          "amount": 69.99,
+          "type": 1,
+          "date": {
+            "seconds": 1571178104
+          }
+        },
+        {
+          "vendor": "Payment - Thank You",
+          "amount": 129.99,
+          "type": 2,
+          "date": {
+            "seconds": 1571178104
+          }
         }
       ]
     }
