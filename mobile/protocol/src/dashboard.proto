@@ -1,9 +1,12 @@
 syntax = "proto3";
 
 option swift_prefix = "";
+option go_package = "dashboardpb";
 
 import "google/protobuf/empty.proto";
 import "google/protobuf/timestamp.proto";
+
+package covr.mobile.exercise.dashboard;
 
 message Card {
     string name = 1;
@@ -14,8 +17,8 @@ message Card {
     int32 card_mask = 6;
 }
 
-message DashboardResponse {
-    repeated Card card = 2;
+message GetCardsResponse {
+    repeated Card cards = 1;
 }
 
 enum CardIssuer {
@@ -37,12 +40,11 @@ enum TransactionType {
     TRANSACTION_TYPE_DEPOSIT = 2;
 }
 
-message TransactionsRequest {
+message GetTransactionsRequest {
     Card card = 1;
 }
 
-message TransactionsResponse {
-
+message GetTransactionsResponse {
     message TransactionInformation {
         string vendor = 1;
         int32 amount = 2;
@@ -54,9 +56,9 @@ message TransactionsResponse {
 
 }
 
-service BankInformation {
+service Dashboard {
     // Gets the dashboard data
-    rpc Dashboard(google.protobuf.Empty) returns (DashboardResponse) {}
+    rpc GetCards(google.protobuf.Empty) returns (GetCardsResponse) {}
     // Gets transaction data based on request
-    rpc Transaction(TransactionsRequest) returns (TransactionsResponse) {}
+    rpc GetTransactions(GetTransactionsRequest) returns (GetTransactionsResponse) {}
 }

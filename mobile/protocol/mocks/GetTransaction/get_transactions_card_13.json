@@ -1,0 +1,26 @@
+{
+  "service": "Dashboard",
+  "method": "GetTransactions",
+  "input": {
+    "contains": {
+      "card": {
+        "issuer": 1,
+        "type": 3
+      }
+    }
+  },
+  "output": {
+    "data": {
+      "transactions": [
+        {
+          "vendor": "Spectrum",
+          "amount": 29.99,
+          "type": 1,
+          "date": {
+            "seconds": 1571168104
+          }
+        }
+      ]
+    }
+  }
+}
