@@ -13,7 +13,7 @@
           "accountHolder": "Samwise Gangee",
           "issuer": 2,
           "type": 2,
-          "balance": 200,
+          "balance": 800.00,
           "cardMask": 340010654300068
         },
         {
@@ -21,7 +21,7 @@
           "accountHolder": "Samwise Gangee",
           "issuer": 1,
           "type": 1,
-          "balance": 100,
+          "balance": 200.00,
           "cardMask": 340041000000011
         },
         {
@@ -29,7 +29,7 @@
           "accountHolder": "Samwise Gangee",
           "issuer": 1,
           "type": 3,
-          "balance": 300,
+          "balance": 100.00,
           "cardMask": 340011654300066
         }
       ]
