@@ -63,6 +63,7 @@ function randomCustomer () {
 
   const institutions = getLinkedInstitution()
   const customer = {
+    id: faker.random.uuid(),
     name:  {
       first: faker.name.firstName(),
       last: faker.name.lastName()
