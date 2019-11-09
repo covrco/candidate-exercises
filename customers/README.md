@@ -26,6 +26,12 @@ The dashboard you would build would allow for the following:
    - We should be able to review any linked institutions for the user along with info about upcoming payments.
    - The custom claim for payment history is also displayed for all users.
 
+## Sample Wireframe
+
+We've provided a sample wireframe that represents what the searchable datagrid _could_ look like.  This does not account for all the possible views, so you have the freedom to implement the design however you'd like.
+
+![portal-mock](/Users/arri/_data/covr/candidate-exercises/customers/portal-mock.png)
+
 ## Sample Data
 
   For simplicity we've provide both a sample of the data below and a script to generate a large set of test records to use in the application.
@@ -34,6 +40,7 @@ The dashboard you would build would allow for the following:
 
 ```json
 {
+  "id": "3da4867d-15cc-4482-b5a7-f880ab0cff6d",
   "name": {
     "first": "Bulah",
     "last": "Padberg"
