@@ -30,7 +30,7 @@ The dashboard you would build would allow for the following:
 
 We've provided a sample wireframe that represents what the searchable datagrid _could_ look like.  This does not account for all the possible views, so you have the freedom to implement the design however you'd like.
 
-![portal-mock](/Users/arri/_data/covr/candidate-exercises/customers/portal-mock.png)
+![portal-mock](portal-mock.png)
 
 ## Sample Data
 
