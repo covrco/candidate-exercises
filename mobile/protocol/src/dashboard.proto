@@ -1,0 +1,64 @@
+syntax = "proto3";
+
+option swift_prefix = "";
+option go_package = "dashboardpb";
+
+import "google/protobuf/empty.proto";
+import "google/protobuf/timestamp.proto";
+
+package covr.mobile.exercise.dashboard;
+
+message Card {
+    string name = 1;
+    string account_holder = 2;
+    CardIssuer issuer = 3;
+    CardType type = 4;
+    double balance = 5;
+    int32 card_mask = 6;
+}
+
+message GetCardsResponse {
+    repeated Card cards = 1;
+}
+
+enum CardIssuer {
+    CARD_ISSUER_INVALID = 0;
+    CARD_ISSUER_CHASE = 1;
+    CARD_ISSUER_WELLS_FARGO = 2;
+}
+
+enum CardType {
+    CARD_TYPE_INVALID = 0;
+    CARD_TYPE_VISA = 1;
+    CARD_TYPE_MASTERCARD = 2;
+    CARD_TYPE_AMEX = 3;
+}
+
+enum TransactionType {
+    TRANSACTION_TYPE_INVALID = 0;
+    TRANSACTION_TYPE_WITHDRAWAL = 1;
+    TRANSACTION_TYPE_DEPOSIT = 2;
+}
+
+message GetTransactionsRequest {
+    Card card = 1;
+}
+
+message GetTransactionsResponse {
+    message TransactionInformation {
+        string vendor = 1;
+        double amount = 2;
+        TransactionType type = 3;
+        google.protobuf.Timestamp date = 4;
+    }
+
+    repeated TransactionInformation transactions = 1;
+
+}
+
+service Dashboard {
+    // Gets the dashboard data
+    rpc GetCards(google.protobuf.Empty) returns (GetCardsResponse) {}
+    // Gets transaction data based on request
+    rpc GetTransactions(GetTransactionsRequest) returns (GetTransactionsResponse) {}
+}

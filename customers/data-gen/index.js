@@ -81,8 +81,7 @@ function randomCustomer () {
     customer.customClaims = {
       paymentHistory: paymentHistoryMap.get(random.arrayElement(paymentHistoryCodesWithLinkedAccount))
     }
-  }
-  else{
+  } else {
     customer.customClaims = {
       paymentHistory: paymentHistoryMap.get(1)
     }
