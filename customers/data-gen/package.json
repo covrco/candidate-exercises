@@ -10,7 +10,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "faker": "^4.1.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "standard": "^14.3.1"
